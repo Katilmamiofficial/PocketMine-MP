@@ -204,7 +204,7 @@
         },
         {
             "name": "pocketmine/bedrock-data",
-            "version": "6.6.0+bedrock-1.26.20",
+            "version": "6.6.0+bedrock-1.26.30",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pmmp/BedrockData.git",
@@ -256,7 +256,7 @@
         },
         {
             "name": "pocketmine/bedrock-protocol",
-            "version": "57.1.0+bedrock-1.26.20",
+            "version": "57.1.0+bedrock-1.26.30",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pmmp/BedrockProtocol.git",
